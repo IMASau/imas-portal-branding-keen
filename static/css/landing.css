@@ -64,15 +64,14 @@ h1 {
 #logoContainer {
     float: left;
     position: absolute;
-    margin-left: 35px;
 }
 
 #logo {
-    margin: 5px 15px 0 35px;
+    margin: 5px 15px 0 0;
 }
 
 #landingHeaderContainer {
-    margin-left: 340px;
+    margin-left: 660px;
 /* image replacement: */
     text-indent: 100%;
     white-space: nowrap;
