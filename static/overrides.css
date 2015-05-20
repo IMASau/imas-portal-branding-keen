@@ -7,11 +7,11 @@
     white-space: nowrap;
     overflow: hidden;
     background: url(//temperatereefbase.imas.utas.edu.au/static/img/oa_header_TRB.png) no-repeat 6px 10px transparent;
-    width: 100%;
     height: 84px;
 }
 #logoContainer {
     margin-top: 0;
+    margin-left: 0;
 }
 #logo {
     margin: 5px 15px 0 0;
