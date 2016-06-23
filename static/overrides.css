@@ -102,6 +102,7 @@ a.external:after {
     margin-top: 5px;
     margin-left: 0;
     
+	width:auto; /* Fallback for IE 11 */
     width:initial;
 }
 
